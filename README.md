@@ -1,2 +1,2 @@
 # DevOps
-repo for DEvOps vac
+repo for DevOps VAC
