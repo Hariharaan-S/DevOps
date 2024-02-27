@@ -1,2 +1,4 @@
 alert("Welcome!");
-alert("Welcome from DevOps Team");
+
+confirm("Yes or No")
+
